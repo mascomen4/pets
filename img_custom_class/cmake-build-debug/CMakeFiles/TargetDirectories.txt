@@ -1,0 +1,6 @@
+/home/pi/CLionProjects/cdc_testing_task/cmake-build-debug/CMakeFiles/cdc_testing_task.dir
+/home/pi/CLionProjects/cdc_testing_task/cmake-build-debug/CMakeFiles/ex2.dir
+/home/pi/CLionProjects/cdc_testing_task/cmake-build-debug/CMakeFiles/ex1.dir
+/home/pi/CLionProjects/cdc_testing_task/cmake-build-debug/CMakeFiles/mergeSort.dir
+/home/pi/CLionProjects/cdc_testing_task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pi/CLionProjects/cdc_testing_task/cmake-build-debug/CMakeFiles/rebuild_cache.dir

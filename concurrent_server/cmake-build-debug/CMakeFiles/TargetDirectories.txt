@@ -1,0 +1,7 @@
+/home/pi/CLionProjects/baum/cmake-build-debug/CMakeFiles/utils.dir
+/home/pi/CLionProjects/baum/cmake-build-debug/CMakeFiles/net.dir
+/home/pi/CLionProjects/baum/cmake-build-debug/CMakeFiles/concurrency_utils.dir
+/home/pi/CLionProjects/baum/cmake-build-debug/CMakeFiles/Server.dir
+/home/pi/CLionProjects/baum/cmake-build-debug/CMakeFiles/baum.dir
+/home/pi/CLionProjects/baum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pi/CLionProjects/baum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

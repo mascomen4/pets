@@ -1,0 +1,2 @@
+/usr/bin/ar qc libconcurrency_utils.a CMakeFiles/concurrency_utils.dir/src/concurrency_utils.cpp.o
+/usr/bin/ranlib libconcurrency_utils.a

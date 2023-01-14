@@ -1,0 +1,4 @@
+/home/pi/CLion-2022.3/clion-2022.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/pi/CLionProjects/baum -B /home/pi/CLionProjects/baum/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/pi/CLionProjects/baum/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/baum.dir/main.cpp.o -o baum  libnet.a libServer.a libconcurrency_utils.a libutils.a 
