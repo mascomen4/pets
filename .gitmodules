@@ -1,0 +1,3 @@
+[submodule "robotcorp"]
+	path = robotcorp
+	url = git@github.com:mascomen4/robotcorp.git
